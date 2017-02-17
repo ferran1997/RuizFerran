@@ -1,6 +1,5 @@
 import java.io.*;
 
-public class version1 {
 	public class Fecha {
 		private int dia;
 		private int mes;
@@ -79,4 +78,3 @@ public class version1 {
 						+ "	NO es válida");
 		}
 	}
-}
